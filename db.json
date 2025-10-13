@@ -170,5 +170,51 @@
       "label": "Book 3",
       "path": "/img/book_3.png"
     }
+  ],
+  "heroes": [
+    {
+      "id": 2,
+      "name": "Bob",
+      "description": "Super Strong",
+      "element": "wind"
+    },
+    {
+      "id": 3,
+      "name": "Lena",
+      "description": "Mega Cute",
+      "element": "water"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Fire",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Water",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Wind",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Earth",
+      "className": "btn-secondary"
+    }
   ]
 }
