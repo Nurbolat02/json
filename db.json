@@ -134,51 +134,6 @@
           "correct": 0
         }
       ]
-    },
-    {
-      "id": "2914",
-      "category": "work",
-      "name": "Placeholder Quiz",
-      "questionsCount": 2,
-      "time": 2222222222,
-      "rating": 3,
-      "image": "/img/book_1.png",
-      "description": "Test content",
-      "questions": [
-        {
-          "question": "2",
-          "options": [
-            "2",
-            "2",
-            "2",
-            "2"
-          ],
-          "correct": 0,
-          "id": 1759740329840
-        },
-        {
-          "question": "1",
-          "options": [
-            "2",
-            "3",
-            "4",
-            "5"
-          ],
-          "correct": 0,
-          "id": 1759740550846
-        },
-        {
-          "question": "33",
-          "options": [
-            "33",
-            "33",
-            "33",
-            "33"
-          ],
-          "correct": 3,
-          "id": 1759740682961
-        }
-      ]
     }
   ],
   "categories": [
